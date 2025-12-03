@@ -1,7 +1,6 @@
-:app: OTRMod
-:handle: OTRMod
+:app: soh-mod-creator
+:handle: soh-mod-creator
 :desc: The OTR mod tool
-:repo: xoascf/{handle}
 :!showtitle:
 :icons: font
 :!toc-title:
